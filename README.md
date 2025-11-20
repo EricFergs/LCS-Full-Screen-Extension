@@ -1,1 +1,1 @@
-A chrome extension desinging to help the LCS experience better for NetSuite. The chrome extension can be found here: https://chromewebstore.google.com/detail/mylearn-fullscreen/ekblfagjnnflcagcbhbmpegeadgkaipb?hl=en&authuser=2
+A chrome extension designed to help the LCS experience better for NetSuite. The chrome extension can be found here: https://chromewebstore.google.com/detail/mylearn-fullscreen/ekblfagjnnflcagcbhbmpegeadgkaipb?hl=en&authuser=2
